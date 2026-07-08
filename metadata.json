@@ -1,0 +1,6 @@
+{
+  "name": "SQL Procedure Explorer",
+  "description": "Explore, inspect, execute, schedule, and email SQL Server stored procedure reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
